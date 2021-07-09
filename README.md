@@ -19,5 +19,5 @@
   <a href = "mailto:daniel.lins96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-lins-leite-89b5201ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/WTTLINS/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com//blob/output/github-contribution-grid-snake.svg)
 </div>
