@@ -1,4 +1,4 @@
-## Olá. Eu sou o Daniel Lins !
+## Olá. Eu sou o Daniel Lins !    ![Profile View Counter](https://komarev.com/ghpvc/?username=WTTLINS)
  <div>
   <a href="https://github.com/wttlins">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wttlins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wttlins&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -20,5 +20,4 @@
  <a style="display: inline_block" align="center" href="https://t.me/wttlins" target="_blank_"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" width="125"></a>
   
  ![Snake animation](https://github.com/WTTLINS/WTTLINS/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
