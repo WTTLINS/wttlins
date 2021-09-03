@@ -20,4 +20,5 @@
  <a style="display: inline_block" align="center" href="https://t.me/wttlins" target="_blank_"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" width="125"></a>
   
  ![Snake animation](https://github.com/WTTLINS/WTTLINS/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
